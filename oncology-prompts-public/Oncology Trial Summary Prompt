@@ -1,0 +1,14 @@
+# Oncology Trial Summary Prompt
+
+Summarize this oncology abstract into:
+
+- Study population
+- Trial design
+- Intervention arm
+- Control arm
+- Primary endpoint
+- Key efficacy results
+- Important toxicities
+- Clinical relevance
+
+Keep the output concise and evidence-focused.
